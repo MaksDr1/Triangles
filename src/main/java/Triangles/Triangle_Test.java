@@ -1,11 +1,10 @@
 package Triangles;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 
 public class Triangle_Test {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         // Declare stdin so data can be read from input.
 
         Scanner scan = new Scanner(System.in);

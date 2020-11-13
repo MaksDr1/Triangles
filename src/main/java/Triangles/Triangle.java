@@ -1,7 +1,9 @@
 package Triangles;
 
 public class Triangle {
-    private int side1,side2,side3;
+    private int side1;
+    private int side2;
+    private int side3;
 
     public Triangle(int s1,int s2,int s3)
     {
